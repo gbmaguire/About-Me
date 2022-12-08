@@ -18,10 +18,10 @@ Complete the following steps.
     I am from New Zealand and have a background in operations and logistics.
 
     * What are your career goals?
-    To work in FinTech and continue to learn in this everchanging industry. 
+    To work in FinTech within the banking and payment side as well as continuing to learn in this everchanging industry. 
 
     * Why did you choose FinTech as a career path?
-    After getting involved with some cryptocurrency and reading The Pay Off: How Changing the Way We Pay Changes Everything by Gottfried Leibbrandt and Natasha de Teran. 
+    After getting involved with some cryptocurrency and reading The Pay Off: How Changing the Way We Pay Changes Everything by Gottfried Leibbrandt and Natasha de Teran, I gained a keen interest in how the future of banking and finance is being shaped.
 
 5. Update the `README.md` file in your online GitHub repository.
 
