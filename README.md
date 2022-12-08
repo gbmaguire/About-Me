@@ -15,7 +15,7 @@ Complete the following steps.
 4. Modify the initialized `README.md` file by inserting a quick introduction about yourself:
 
     * Who are you? What is your background?
-    I am from New Zealand and have a background in operations and logistics.
+    I am from New Zealand and am educated in marketing and commercial law with a professional background in operations and logistics.
 
     * What are your career goals?
     To work in FinTech within the banking and payment side as well as continuing to learn in this everchanging industry. 
